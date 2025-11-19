@@ -362,7 +362,7 @@ Contributions welcome! See `CONTRIBUTOR_ONBOARDING.md` for guidelines.
 
 ## License
 
-See `LICENSE` file in the root directory.
+CC BY-NC-SA 4.0
 
 ## Citation
 
